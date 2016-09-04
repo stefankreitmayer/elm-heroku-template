@@ -12,11 +12,12 @@
   "devDependencies": {
     "babel-brunch": "~6.0.0",
     "brunch": "2.7.4",
-    "elm-brunch": "^0.5.0",
     "clean-css-brunch": "~2.0.0",
     "css-brunch": "~2.0.0",
+    "elm": "^0.17.0",
+    "elm-brunch": "^0.5.0",
+    "elm-test": "^0.17.3",
     "javascript-brunch": "~2.0.0",
-    "uglify-js-brunch": "~2.0.1",
-    "elm": "^0.17.0"
+    "uglify-js-brunch": "~2.0.1"
   }
 }

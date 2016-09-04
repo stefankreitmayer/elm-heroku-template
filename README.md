@@ -40,7 +40,9 @@ Suppose you are starting a new project named "PlumCake".
 * Run `npm install`
 * Run `mix ecto.create`
 * Run `mix phoenix.server`
-* Expect a message "Hello from Elm!" in the browser.
+
+* In a browser, go to `localhost:4000` and expect a basic single-page application with client-side navigation.
+* Run `./run-elm-tests.sh` and expect all tests to be green.
 * Update README.md
 * Commit your changes
 
