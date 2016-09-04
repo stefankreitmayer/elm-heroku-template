@@ -1,7 +1,13 @@
 module Model exposing (..)
 
-type alias Model = String
+import Date exposing (Date)
+
+import Model.Page exposing (Page(..))
+
+type alias Model =
+  { currentPage : Page }
 
 
-initialModel : String
-initialModel = "Hello from Elm!"
+initialModel : Model
+initialModel =
+  { currentPage = Home }
