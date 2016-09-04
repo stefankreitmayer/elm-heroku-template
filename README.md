@@ -95,7 +95,7 @@ Expect no errors.
 
 `heroku open`
 
-You should now see a message "Hello from Elm!"
+You should now see the example Elm app.
 
 ## Further reading
 
